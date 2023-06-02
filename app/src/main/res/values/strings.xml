@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnjoyDrivinTask</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="put_name">Put your name</string>
+    <string name="name_length_error">name should be more than or equle 6 characters</string>
+    <string name="password_length_error">password should be more than 5 characters</string>
+    <string name="put_password">Put your password</string>
+</resources>
