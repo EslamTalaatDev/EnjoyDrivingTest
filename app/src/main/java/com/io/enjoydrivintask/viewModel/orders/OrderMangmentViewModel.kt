@@ -54,32 +54,38 @@ class OrderMangmentViewModel(
             OrderMangmentModel(
                 "100231",
                 "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-                "pending"
+                "pending",
+                "eslam","01117123123"
             ),
             OrderMangmentModel(
                 "76775123",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWy3DLSoDNZxaoOiVo3G9I7-fXtRAztlpB8YtYejl&s",
-                "confirmed"
+                "confirmed",
+                "emad","01117123123"
             ),
             OrderMangmentModel(
                 "997967",
                 "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
-                "canceled"
+                "canceled",
+                "ibtahim","01117123123"
             ),
             OrderMangmentModel(
                 "112311",
                 "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-                "pending"
+                "pending",
+                "eslam","01117123123"
             ),
             OrderMangmentModel(
                 "76234123",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWy3DLSoDNZxaoOiVo3G9I7-fXtRAztlpB8YtYejl&s",
-                "confirmed"
+                "confirmed",
+                "ahmed","01117123123"
             ),
             OrderMangmentModel(
                 "994567",
                 "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
-                "canceled"
+                "canceled",
+                "mohamed","01117123123"
             ),
         )
     }
