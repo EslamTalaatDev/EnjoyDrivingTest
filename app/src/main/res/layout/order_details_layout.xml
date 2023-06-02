@@ -25,6 +25,7 @@
                 android:layout_height="match_parent"/>
         </androidx.appcompat.widget.LinearLayoutCompat>
         <androidx.appcompat.widget.AppCompatImageView
+            app:bind_image="@{data.image}"
             android:background="@drawable/background"
             android:layout_width="match_parent"
             android:layout_height="@dimen/_200sdp"/>
